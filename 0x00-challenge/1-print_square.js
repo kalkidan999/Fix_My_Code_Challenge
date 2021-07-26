@@ -1,4 +1,4 @@
-#!/usr/bin
+#!/usr/bin/nodejs
 /*
     Print a square with the character #
     
